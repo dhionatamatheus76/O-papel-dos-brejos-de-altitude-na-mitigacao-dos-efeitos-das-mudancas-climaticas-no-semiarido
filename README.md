@@ -17,7 +17,12 @@ BIOMA CAATINGA; BREJOS DE ALTITUDE; MUDANÇAS CLIMÁTICAS; RANDON FOREST; REMOÇ
 MAIS INFORMAÇÕES
  __________________________________________________________________________________________________
 
-Para o artigo escrito e submetido no VI Simpósio de Geografia Física do Nordeste, intitulado "VARIABILIDADE DO POTENCIAL DE SEQUESTRO DE CARBONO ATMOSFÉRICO ENTRE FISIONOMIAS FLORESTAIS DE CAATINGA" o script usado para tratamento estátistico é o arquivo scr
+Para o artigo escrito e submetido no VI Simpósio de Geografia Física do Nordeste, intitulado "VARIABILIDADE DO POTENCIAL DE SEQUESTRO DE CARBONO ATMOSFÉRICO ENTRE FISIONOMIAS FLORESTAIS DE CAATINGA" o script usado para tratamento estátistico é o arquivo [arquivo_co2.R](./arquivo_co2.R). Os scripst usado para coleta de dados na plataforma Google Eearth Engine foram: 
+
+Para o PARNA de Ubajara: https://code.earthengine.google.com/bdaec4e15675c583e44899d7378b657e
+
+Para a RPPN Serra das Almas: https://code.earthengine.google.com/3570699840b5d514105d6c054e20957f
+
 
 
 
