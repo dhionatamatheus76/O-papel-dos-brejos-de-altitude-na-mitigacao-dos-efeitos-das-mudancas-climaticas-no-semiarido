@@ -14,4 +14,13 @@ Os brejos de altitude são enclaves úmidos no semiárido nordestino, caracteriz
 Palavras-Chaves:
 BIOMA CAATINGA; BREJOS DE ALTITUDE; MUDANÇAS CLIMÁTICAS; RANDON FOREST; REMOÇÃO DE CARBONO
  __________________________________________________________________________________________________
+MAIS INFORMAÇÕES
+ __________________________________________________________________________________________________
+
+Para o artigo escrito e submetido no VI Simpósio de Geografia Física do Nordeste, intitulado "VARIABILIDADE DO POTENCIAL DE SEQUESTRO DE CARBONO ATMOSFÉRICO ENTRE FISIONOMIAS FLORESTAIS DE CAATINGA" o script usado para tratamento estátistico é o arquivo scr
+
+
+
+
+
 
