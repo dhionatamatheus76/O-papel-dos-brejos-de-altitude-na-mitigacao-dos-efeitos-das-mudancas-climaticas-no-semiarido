@@ -17,14 +17,14 @@ BIOMA CAATINGA; BREJOS DE ALTITUDE; MUDANÇAS CLIMÁTICAS; RANDON FOREST; REMOÇ
 MAIS INFORMAÇÕES
  __________________________________________________________________________________________________
 
-O script usado para tratamento estátistico refente aos dados sobre o Potencial de Carbono é o arquivo [arquivo_co2.R](./arquivo_co2.R). 
+O script usado para tratamento estátistico refente aos dados sobre o Potencial de Carbono é o arquivo [arquivo_co2.R](./arquivo_co2.R) 
 Os scripst usado para coleta de dados na plataforma Google Eearth Engine referente ao pontecial de Carbono foram: 
 
 Para o PARNA de Ubajara: https://code.earthengine.google.com/bdaec4e15675c583e44899d7378b657e
 
 Para a RPPN Serra das Almas: https://code.earthengine.google.com/3570699840b5d514105d6c054e20957f
 
-O script usado para o tratamento estátistico referente aos dados sobre Estoque de Carbono no Solo é o arquivo .[Estoque_CO2_Solo.R](./Estoque_CO2_Solo.R).
+O script usado para o tratamento estátistico referente aos dados sobre Estoque de Carbono no Solo é o arquivo [Estoque_CO2_Solo.R](./Estoque_CO2_Solo.R)
 
 Os scripst usado para coleta de dados na plataforma Google Eearth Engine referente ao Estoque de Carbono no Solo foram:
 
