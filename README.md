@@ -17,12 +17,20 @@ BIOMA CAATINGA; BREJOS DE ALTITUDE; MUDANÇAS CLIMÁTICAS; RANDON FOREST; REMOÇ
 MAIS INFORMAÇÕES
  __________________________________________________________________________________________________
 
-Para o artigo escrito e submetido no VI Simpósio de Geografia Física do Nordeste, intitulado "VARIABILIDADE DO POTENCIAL DE SEQUESTRO DE CARBONO ATMOSFÉRICO ENTRE FISIONOMIAS FLORESTAIS DE CAATINGA" o script usado para tratamento estátistico é o arquivo [arquivo_co2.R](./arquivo_co2.R). Os scripst usado para coleta de dados na plataforma Google Eearth Engine foram: 
+O script usado para tratamento estátistico refente aos dados sobre o Potencial de Carbono é o arquivo [arquivo_co2.R](./arquivo_co2.R). 
+Os scripst usado para coleta de dados na plataforma Google Eearth Engine referente ao pontecial de Carbono foram: 
 
 Para o PARNA de Ubajara: https://code.earthengine.google.com/bdaec4e15675c583e44899d7378b657e
 
 Para a RPPN Serra das Almas: https://code.earthengine.google.com/3570699840b5d514105d6c054e20957f
 
+O script usado para o tratamento estátistico referente aos dados sobre Estoque de Carbono no Solo é o arquivo .[Estoque_CO2_Solo.R](./Estoque_CO2_Solo.R).
+
+Os scripst usado para coleta de dados na plataforma Google Eearth Engine referente ao Estoque de Carbono no Solo foram:
+
+Para o PARNA de Ubajara: https://code.earthengine.google.com/7fb1678104f8f64c443f3fa7a1e91fbb
+
+Para a RPPN Serra das Almas: https://code.earthengine.google.com/0547c49c091f58a092c594aebc1b6f83
 
 
 
