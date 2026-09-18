@@ -24,6 +24,8 @@ Para o PARNA de Ubajara: https://code.earthengine.google.com/bdaec4e15675c583e44
 
 Para a RPPN Serra das Almas: https://code.earthengine.google.com/3570699840b5d514105d6c054e20957f
 
+ __________________________________________________________________________________________________
+
 O script usado para o tratamento estátistico referente aos dados sobre Estoque de Carbono no Solo é o arquivo [Estoque_CO2_Solo.R](./Estoque_CO2_Solo.R)
 
 Os scripst usado para coleta de dados na plataforma Google Eearth Engine referente ao Estoque de Carbono no Solo foram:
@@ -31,6 +33,12 @@ Os scripst usado para coleta de dados na plataforma Google Eearth Engine referen
 Para o PARNA de Ubajara: https://code.earthengine.google.com/7fb1678104f8f64c443f3fa7a1e91fbb
 
 Para a RPPN Serra das Almas: https://code.earthengine.google.com/0547c49c091f58a092c594aebc1b6f83
+
+ __________________________________________________________________________________________________
+
+ O script usado para a modelagem de cenário futuro da eficiência do CO2flux:
+ https://code.earthengine.google.com/10b4cda1234aa6aaf093eed8f96e9940
+ 
 
 
 
