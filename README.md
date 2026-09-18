@@ -50,6 +50,12 @@ Para a RPPN Serra das Almas: https://code.earthengine.google.com/0547c49c091f58a
  a 600m:
  https://code.earthengine.google.com/6d79acf21681568cbab0eae844e59aa1
 
+  __________________________________________________________________________________________________
+
+ A ementa do minicurso aplicado está em  [Minicurso GEE](./Minicurso_GEE.pdf)
+
+ 
+
 
 
 
