@@ -36,10 +36,19 @@ Para a RPPN Serra das Almas: https://code.earthengine.google.com/0547c49c091f58a
 
  __________________________________________________________________________________________________
 
- O script usado para a modelagem de cenário futuro da eficiência do CO2flux:
+ O script usado para a modelagem de cenário futuro da eficiência do CO2flux na plataforma Google Eearth Engine:
  https://code.earthengine.google.com/10b4cda1234aa6aaf093eed8f96e9940
- 
 
+ O VIF foi realizado no [VIF_GEE_EXPORTAR](./VIF_GEE_EXPORTAR)
+
+ __________________________________________________________________________________________________
+
+ O script usado para produção da série temporal na plataforma Google Eearth Engine referente a área geral:
+ https://code.earthengine.google.com/d2b21f95ec723290e533a169f04d8819
+
+ O script usado para produção da série temporal na plataforma Google Eearth Engine referente a áreas com altitude superior
+ a 600m:
+ https://code.earthengine.google.com/6d79acf21681568cbab0eae844e59aa1
 
 
 
